@@ -9,8 +9,9 @@
 - User can save events and still maintain the data even if the browser is reloaded.
 - A reset button is provided to clear all the data.
 
-![alt text](./assets/img/05-third-party-apis-homework-demo.gif)
+
 
 ### A screencapture of my webpage looks like:
 
-![alt text](./assets/img/Screenshot%202022-08-04%20233653.png)
+
+![Screenshot 2022-08-04 233653](https://user-images.githubusercontent.com/107228288/182997121-df56217b-8c45-412a-94db-12a05a34ccbb.png)
